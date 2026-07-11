@@ -9,8 +9,12 @@ redirect_from:
 
 Hi, I'm Vaanee!
 
-I'm an incoming senior at Ashoka University majoring in Computer Science with a minor in Creative Writing. I create technology that's accessible to everyone and enhances people's quality of life. My work focuses on **inclusive design and assistive technology** – because I believe great tech should work for all of us, not just some of us.
+I recently graduated from Ashoka University with a B.Sc. in Computer Science and a minor in Creative Writing, and I'm currently a Research Intern at **Microsoft Research India**, working with Dr. Manohar Swaminathan on Project Ekalaiva, which works to transform the current educational landscape to promote trust, agency, play, and creativity. 
 
-Recently, I've been diving deep into **curating accessible educational experiences** for individuals with visual impairments and **creating inclusive digital experiences**. When I'm not coding or researching, you'll find me at the university Makerspace building things with everything from electronics to fabrics. In my spare time, I also write, crochet, and make art.
+I am interested in creating technology that's accessible to everyone and enhances people's quality of life. My work focuses on **inclusive design and assistive technology** – because I believe good tech works for all of us, not just some of us.
+
+Recently, I've been getting more intrigued by **Human-Centred AI and Human-Centred Robotics** for individuals with visual impairments and in the developmental/educational space. 
+
+When I'm not working, you'll find me at a Makerspace building things with everything from electronics to fabrics. In my spare time, I also write, crochet, and make art.
 
 Interested in collaborating or just want to chat about any of these things? Feel free to reach out!
