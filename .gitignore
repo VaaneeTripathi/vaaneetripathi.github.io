@@ -15,3 +15,6 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+# Ignore Windows Zone.Identifier metadata files (created when downloading on Windows/WSL)
+*:Zone.Identifier
